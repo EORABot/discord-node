@@ -1,10 +1,10 @@
 {
-    "name": "discord-bot",
+    "name": "EORABot.discord-node",
     "version": "2.8.2",
     "description": "",
     "main": "dist/index.js",
     "repository": {
-        "url": "https://github.com/z164/discord-bot"
+        "url": "https://github.com/EORABot/discord-node.git"
     },
     "scripts": {
         "start": "NODE_ENV=development npx ts-node src/index.ts",
